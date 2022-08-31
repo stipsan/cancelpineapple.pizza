@@ -1,7 +1,4 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "github": { "silent": true },
-  "rewrites": [
-    { "source": "/studio/(.*)", "destination": "/studio/index.html" }
-  ]
+  "github": { "silent": true }
 }

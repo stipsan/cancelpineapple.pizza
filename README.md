@@ -3,5 +3,5 @@
 ## Running locally
 
 ```bash
-npx serve public
+npx --yes serve -l 3333 public
 ```
